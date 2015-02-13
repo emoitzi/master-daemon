@@ -1,6 +1,6 @@
 {
   "name": "master-daemon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Starts scripts as childs of a daemonized cluster master.",
   "main": "master-daemon.js",
   "scripts": {
@@ -8,8 +8,8 @@
   },
   "author": "Ewald Moitzi <ewald.moitzi@gmail.com>",
   "license": "MIT",
-  "keywords": ['cluster', 'daemon', 'ipc', 'process'],
-  "files": ['master-daemon.js', 'lib'],
+  "keywords": ["cluster", "daemon", "ipc", "process"],
+  "files": ["master-daemon.js", "lib"],
   "repository": {
     "type": "git",
     "url" : "http://github.com:emoitzi/master-daemon.git"
