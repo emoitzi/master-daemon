@@ -85,7 +85,7 @@ function childDaemon(callback) {
     });
   }
   else {
-    callback(null, {}, function () {});
+    callback(null, null, function () {});
   }
 }
 
