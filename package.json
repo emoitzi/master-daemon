@@ -1,6 +1,6 @@
 {
   "name": "master-daemon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Starts scripts as childs of a daemonized cluster master.",
   "main": "master-daemon.js",
   "scripts": {
